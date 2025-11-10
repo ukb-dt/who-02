@@ -9,7 +9,7 @@
    - Logos
    - Differentiation / Infrastructure
    - Perception AI
-   - `OpenEvidence, Literature Review`
+   - [OpenEvidence](https://ukb-dt.github.io/who-00/), 1Literature Review`
    - Tactical
    - Okumera
 - Bottleneck/Results/[Trunk](https://ukb-dt.github.io/who-02-c/): Nvidia
