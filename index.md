@@ -1,18 +1,18 @@
-- Data/Background/Soil&Seed: Oracle
+- Data/Background/[Soil&Seed](https://ukb-dt.github.io/who-02-a/): Oracle
    - Chaos
    - Primal Field / Undifferentiated
    - World AI
    - `Principle Investigators`
    - Existential
    - Okuzala
-- Pipeline/Methods/Roots: Microsoft
+- Pipeline/Methods/[Roots](https://ukb-dt.github.io/who-02-b/): Microsoft
    - Logos
    - Differentiation / Infrastructure
    - Perception AI
    - `OpenEvidence, Literature Review`
    - Tactical
    - Okumera
-- Bottleneck/Results/Trunk: Nvidia
+- Bottleneck/Results/[Trunk](https://ukb-dt.github.io/who-02-c/): Nvidia
    - Pathos
    - Immediate Flux / Affect
       - Rate of Energy or Signal Flow
@@ -20,7 +20,7 @@
    - `Inhouse`
    - Ritual
    - Okukula
-- Side-stepping/Limitations/Branches: OpenAI
+- Side-stepping/Limitations/[Branches](https://ukb-dt.github.io/who-02-d/): OpenAI
    - Ethos
    - Disciplined Exploration within Context
       - Boundaries, Hallucination (as Knowledge Gap)
@@ -28,7 +28,7 @@
    - `Path Dependencies, Not Uncertainty`
    - Strategic
    - [Okukona](https://ukb-dt.github.io/g.1-28/)
-- Value/Conclusions/Canopy&Fruit: Delta Market Cap
+- Value/Conclusions/[Canopy&Fruit](https://ukb-dt.github.io/who-02-e/): Delta Market Cap
    - Mythos
       - [Inheritance](https://ukb-dt.github.io/os/) (Replication Error as Innovation/Risk)
       - Drift (Epigenetics)
