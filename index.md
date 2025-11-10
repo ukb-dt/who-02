@@ -1,0 +1,19 @@
+- Data: Oracle
+   - Chaos
+   - Primal Field / Undifferentiated
+- Pipeline: Microsoft
+   - Logos
+   - Differentiation / Infrastructure
+- Bottleneck: Nvidia
+   - Pathos
+   - Immediate Flux / Affect
+   - Rate of Energy or Signal Flow
+- Side-stepping: OpenAI
+   - Ethos
+   - Disciplined Exploration within Context
+   - Boundaries, Hallucination (as Knowledge Gap)
+- Value: Delta Market Cap
+   - Mythos
+      - [Inheritance](https://ukb-dt.github.io/os/) (Replication Error as Innovation/Risk)
+      - Drift (Epigenetics)
+      - Identity (Genetics)
