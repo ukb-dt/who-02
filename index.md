@@ -1,19 +1,40 @@
-- Data: Oracle
+- Data/Background: Oracle
    - Chaos
    - Primal Field / Undifferentiated
-- Pipeline: Microsoft
+   - World AI
+   - `Principle Investigators`
+   - Existential
+   - Okuzala
+- Pipeline/Methods: Microsoft
    - Logos
    - Differentiation / Infrastructure
-- Bottleneck: Nvidia
+   - Perception AI
+   - `OpenEvidence, Literature Review`
+   - Tactical
+   - Okumera
+- Bottleneck/Results: Nvidia
    - Pathos
    - Immediate Flux / Affect
-   - Rate of Energy or Signal Flow
-- Side-stepping: OpenAI
+      - Rate of Energy or Signal Flow
+   - Agentic AI
+   - `Inhouse`
+   - Ritual
+   - Okukula
+- Side-stepping/Limitations: OpenAI
    - Ethos
    - Disciplined Exploration within Context
-   - Boundaries, Hallucination (as Knowledge Gap)
-- Value: Delta Market Cap
+      - Boundaries, Hallucination (as Knowledge Gap)
+   - Generative AI
+   - `Path Dependencies, Not Uncertainty`
+   - Strategic
+   - [Okukona](https://ukb-dt.github.io/g.1-28/)
+- Value/Conclusions: Delta Market Cap
    - Mythos
       - [Inheritance](https://ukb-dt.github.io/os/) (Replication Error as Innovation/Risk)
       - Drift (Epigenetics)
       - Identity (Genetics)
+   - Coming soon.. 
+   - Embodied AI
+   - `WHO guidelines`
+   - Operational
+   - Okubona
