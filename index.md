@@ -35,6 +35,6 @@
       - Identity (Genetics)
    - Coming soon.. 
    - Embodied AI
-   - `WHO guidelines`
+   - [WHO guidelines](https://ukb-dt.github.io/who-01/)
    - Operational
    - Okubona
