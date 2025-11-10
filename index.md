@@ -36,5 +36,5 @@
    - Coming soon.. 
    - Embodied AI
    - [WHO guidelines](https://ukb-dt.github.io/who-01/)
-   - Operational
+   - [Operational](https://ukb-dt.github.io/who-3/)
    - Okubona
